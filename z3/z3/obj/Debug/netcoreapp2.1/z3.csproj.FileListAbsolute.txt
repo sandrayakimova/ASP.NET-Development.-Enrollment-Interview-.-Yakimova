@@ -1,0 +1,9 @@
+/Users/sandrayakimova/Projects/z3/z3/bin/Debug/netcoreapp2.1/z3.deps.json
+/Users/sandrayakimova/Projects/z3/z3/bin/Debug/netcoreapp2.1/z3.dll
+/Users/sandrayakimova/Projects/z3/z3/bin/Debug/netcoreapp2.1/z3.pdb
+/Users/sandrayakimova/Projects/z3/z3/obj/Debug/netcoreapp2.1/z3.csprojAssemblyReference.cache
+/Users/sandrayakimova/Projects/z3/z3/obj/Debug/netcoreapp2.1/z3.csproj.CoreCompileInputs.cache
+/Users/sandrayakimova/Projects/z3/z3/obj/Debug/netcoreapp2.1/z3.AssemblyInfoInputs.cache
+/Users/sandrayakimova/Projects/z3/z3/obj/Debug/netcoreapp2.1/z3.AssemblyInfo.cs
+/Users/sandrayakimova/Projects/z3/z3/obj/Debug/netcoreapp2.1/z3.dll
+/Users/sandrayakimova/Projects/z3/z3/obj/Debug/netcoreapp2.1/z3.pdb
